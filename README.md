@@ -1,1 +1,3 @@
-https://github.com/facebookresearch/NeuralCompression
+- Lu, Guo, et al. "**DVC: An end-to-end deep video compression framework.**" CVPR (2019) (https://arxiv.org/abs/1812.00101).
+- Yang, Ren et al. "**OpenDVC: An Open Source Implementation of the DVC Video Compression Method**" (https://arxiv.org/abs/2006.15862)
+- https://github.com/facebookresearch/NeuralCompression
